@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Hassan Tahir, A Cyber Security Analyst & Full Stack Developer 🚀 from Pakistan.
+## Hi, I'm Hassan Tahir, A Cyber Security Analyst & Full Stack Web Developer 🚀 from Pakistan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
