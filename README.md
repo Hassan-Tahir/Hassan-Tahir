@@ -20,12 +20,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
 
+- 📫 How to reach me: hassan.tahir.mcc@gmail.com;
 - 🌱 I’m currently learning DLL and Code injection; 
 - 👯 I am working on my website to help developers to learn Computer Programming and Security(comming soon);
 - 🤔 I’m looking for help with Web Hacking;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Networking and communication engineering;
-- 📫 How to reach me: hassan.tahir.mcc@gmail.com;
 
 **Languages and Tools:** 
 
